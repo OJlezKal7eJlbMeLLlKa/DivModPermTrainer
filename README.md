@@ -6,6 +6,11 @@ Open the HTML file
 1. DIV section - choose the correct answer to each problem(5 levels, then auto returning to main menu)
 2. MOD section - choose the correct answer to each problem(5 levels, then auto returning to main menu)
 3. "Порядок действий" section - solve each string then enter the correct answer into the brackets. Use your keyboard or up/down arrows.(5 levels then returning to menu)
+   
+Instalation instruction:
+1. Download file "Проект(2).zip"
+2. Repack the archieve
+3. Open file "index.html"
 
 Sources:
 [https://developer.mozilla.org](https://developer.mozilla.org/ru/)
@@ -22,6 +27,11 @@ RU:
 1. Раздел "DIV" - выберите правильный ответ на каждую задачу (5 уровней, затем автоматический возврат в главное меню)
 2. Раздел "MOD" - выберите правильный ответ на каждую задачу (5 уровней, затем автоматический возврат в главное меню)
 3. Раздел "Порядок действий" - решите каждую строку, затем введите правильный ответ в скобки. Используйте клавиатуру или стрелки вверх/вниз.(5 уровней, затем возврат в меню)
+
+Инструкция по установке:
+1. Скачайте файл "Проект(2).zip"
+2. Распакуйте архив
+3. Откройте файл "index.html"
 
 Источники:
 [https://developer.mozilla.org](https://developer.mozilla.org/ru/)
